@@ -136,7 +136,7 @@ nav ul li a:hover{
 .blue-bg{
     position:absolute;
     width: 305%;
-    height: 80%;
+    height: 70%;
     bottom: -450px;
     border-radius: 200px 0 0 200px;
     background: var(--color-primary);
@@ -679,7 +679,7 @@ nav ul li a{
 }
 .blue-bg{
     position:absolute;
-    width: 40%;
+    width: 50%;
     height: 40%;
     bottom: -1px;
     right: -1px;
